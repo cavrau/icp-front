@@ -1,0 +1,14 @@
+#create-keys-container {
+    width: 25vw;
+    text-align: center;
+}
+#create-keys-container h3 {
+    font-weight: bold;
+    padding-bottom: 10px;    
+}
+#create-keys-container button {
+    margin-bottom: 20px;
+}
+#create-keys-container p {
+    font-size: 14px;
+}

@@ -1,0 +1,29 @@
+#create-certificate-container {
+    width: 25vw;
+    text-align: center;
+}
+#pem-label {
+    display: block;
+    white-space: pre-wrap;
+    overflow: unset;
+    text-align: center;
+}
+#name-field {
+    text-align: left;
+    padding-bottom: 10px;
+}
+#create-certificate-container form {
+    text-align: center;
+}
+#create-certificate-container form button {
+    margin-top: 10px;
+}
+#create-cert {
+    padding-bottom: 10px;
+}
+.error-label {
+    color: tomato;
+    text-align: left;
+    font-weight: bold;
+    font-size: 12px;
+}

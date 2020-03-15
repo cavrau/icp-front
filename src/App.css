@@ -1,0 +1,17 @@
+
+body {
+    flex: 1
+}
+
+.containers {
+    display: inline-grid;
+    margin-left: 100px;
+}
+.container {
+    margin-top: 30px;
+}
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}

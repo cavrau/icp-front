@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import 'bulma/css/bulma.css'
 import'./App.css'
 import FileUpload from './components/FileUpload'

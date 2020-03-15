@@ -1,6 +1,5 @@
 import React, {useState} from 'react';
 import axios from 'axios'
-import { Container, Notification } from 'react-bulma-components'
 import './styles.css'
 
 const FileUpload = () => {
@@ -42,7 +41,7 @@ const FileUpload = () => {
               <input className="file-input" type="file" name="resume" onChange={onChange} />
               <span className="file-cta">
                 <span className="file-icon">
-                  <img src="https://icon-library.net/images/upload-photo-icon/upload-photo-icon-21.jpg" />
+                  <img alt='' src="https://icon-library.net/images/upload-photo-icon/upload-photo-icon-21.jpg" />
                 </span>
                 <span className="file-label">
                   Clique aqui para fazer o upload...
